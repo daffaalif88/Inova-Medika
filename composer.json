@@ -1,0 +1,15 @@
+{
+    "name": "asus/yii_framework",
+    "autoload": {
+        "psr-4": {
+            "Asus\\YiiFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "daffaalif",
+            "email": "adaffa059@gmail.com"
+        }
+    ],
+    "require": {}
+}
